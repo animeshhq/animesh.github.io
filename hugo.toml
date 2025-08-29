@@ -99,9 +99,9 @@ theme = "hugo-blog-awesome"
 [Languages.en-gb.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Awesome hugo blog"
-  name = "Sidharth R"
-  description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog."
+  intro = "Hi, Anon"
+  name = "Animesh"
+  description = "Welcome to my archives"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
