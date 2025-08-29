@@ -1,5 +1,5 @@
 title = "Hi, Welcome"
-baseURL = 'https://animeshhq.github.io/blog/'
+baseURL = ''
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
